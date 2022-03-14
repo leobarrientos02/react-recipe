@@ -36,7 +36,6 @@ const Veggie = () => {
             perPage: 3,
             drag: 'free',
             gap: '5rem',
-            pagination: false,
             arrows: false,
         }}
         >
