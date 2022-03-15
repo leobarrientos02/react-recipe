@@ -23,6 +23,11 @@ h4 {
   font-size: 1rem;
   color: rgb(56, 56, 56);
 }
+h5 {
+  font-size: 1.2rem;
+  color: rgb(56, 56, 56);
+  padding: 0.5rem 0rem;
+}
 h3 {
   font-size: 1rem;
   color: rgb(56, 56, 56);
